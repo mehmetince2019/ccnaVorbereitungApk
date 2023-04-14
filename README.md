@@ -54,7 +54,7 @@ biirnci kalsordeki dosyalari yeni klasöre kopyala.
 dosyalari güncelle  (icindeki linkleri editle )
 (herbir php dosyasinin icine girip "ccna2_1" kelimesini (tablo ismini) 
 olmasi gerektigi sekilde,  kendine göre güncelle.  
-her dosyada sadece 1 ya da 2 yer degisecek ( + home sayfasina giden linler..)
+her dosyada sadece 1 ya da 2 yer degisecek ( + index sayfasina giden link editlenecek ..)
 ( ccna2_1  yeni tablo adi ile güncellenecek. )
 
  ------------
