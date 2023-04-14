@@ -24,8 +24,11 @@ ve pasword.. "ccnapaswordum"
 
 ------------------------
 2. phpmyadmine git 
-phpmyadmine git. databasein icine gir. sql sorgusu böl+m+ne git- 
-000sqlcod dosyasi icindeki sorguyu önce kendine göre degistiri.sonra bu kodu sql penceresinde calistir. tablo olussun .. ornegin ccna_2
+databasein icine gir. sql sorgusu bölümüne git- 
+000sqlcod dosyasi icindeki sorguyu önce kendine göre degistiri.
+sonra bu kodu sql penceresinde calistir. 
+tablo olussun .. 
+ornegin ccna_2
 
 
 
@@ -38,25 +41,27 @@ github tan indirdigin php dosyalarini icine yükle
 -----------
 4- web site yönetim ekraninda file managere gir 
 php dosyalarini tek tek ac . 
-iclerindeki degosmesi gereken yerleri kendine göre editle 
-sadece sifre ve tablo ismi degisecek 
+iclerindeki degismesi gereken yerleri kendine göre editle 
+neler degisecek ?
+-tablo ismi ( ccna_2 kelimesini arat ve degistir) 
+-index e giden link 
+-ve varsa kull adi , databse adi ve sifre ..
+
 ----------------
 
 
 
-ikinci bir liste yapmak icin 
-(sonraki soru listesi icin)
+ikinci bir liste yapmak icin :(sonraki soru listesi icin)
 1- database de yeni tablo olustur.. 
 000sql dosyasindaki sorguyu degistirerek... bu sorguyu phpmyadminde calistir.
 database de yeni bir tablo olussun
 
-2- yeni liste icin yeni bir klasor olustur. ismini degistir . 
-biirnci kalsordeki dosyalari yeni klasöre kopyala. 
-dosyalari güncelle  (icindeki linkleri editle )
-(herbir php dosyasinin icine girip "ccna2_1" kelimesini (tablo ismini) 
-olmasi gerektigi sekilde,  kendine göre güncelle.  
-her dosyada sadece 1 ya da 2 yer degisecek ( + index sayfasina giden link editlenecek ..)
-( ccna2_1  yeni tablo adi ile güncellenecek. )
+2- yeni liste icin... yeni bir klasor olustur. ismini degistir . 
+birinci klasordeki dosyalari olusturdugun yeni klasöre kopyala. 
+dosyalari editle (herbir php dosyasinin icine girip olmasi gerektigi sekilde editle 
+tablo ismini örn :"ccna2_1" 
+ve varsa  kull adi,  database ve sifreleri ve  index e giden linki editle )
+
 
  ------------
 
