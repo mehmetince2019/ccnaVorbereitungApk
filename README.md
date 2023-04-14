@@ -8,6 +8,7 @@ CCCNA Fragen
 
 
 1- database olustur
+
 2- database icinde tablo olustur 
 3. web sitende files kisminda klasor olustur. icine php dosyalarini yükle 
 4. yükledigin dosyalari kendine göre editle 
