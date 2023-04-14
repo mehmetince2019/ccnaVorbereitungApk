@@ -1,5 +1,5 @@
 # ccnaVorbereitungApk
-CCCNA Fragen
+
 
 - web sitenizde quizlet benzeri soru listeleri olusturun. 
 - basit bir form araciligi ile sorulari kopyalayip yapistirin 
@@ -10,9 +10,15 @@ CCCNA Fragen
 1- database olustur
 
 2- database icinde tablo olustur 
+
 3. web sitende files kisminda klasor olustur. icine php dosyalarini yükle 
+
 4. yükledigin dosyalari kendine göre editle 
+
 5. yeni soru listesi icin tekrar tablo olustur. 2 , 3ve 4 adimlari tekrar yap. 
+
+6. apk yap 
+
 
 -------------
 1. websitende yönetim panelinde database olusturma bölümüne git 
@@ -25,7 +31,7 @@ ve pasword.. "ccnapaswordum"
 ------------------------
 2. phpmyadmine git 
 databasein icine gir. sql sorgusu bölümüne git- 
-000sqlcod dosyasi icindeki sorguyu önce kendine göre degistiri.
+000sqlcod dosyasi icindeki sorguyu önce kendine göre degistir.
 sonra bu kodu sql penceresinde calistir. 
 tablo olussun .. 
 ornegin ccna_2
@@ -43,15 +49,15 @@ github tan indirdigin php dosyalarini icine yükle
 php dosyalarini tek tek ac . 
 iclerindeki degismesi gereken yerleri kendine göre editle 
 neler degisecek ?
--tablo ismi ( ccna_2 kelimesini arat ve degistir) 
--index e giden link 
--ve varsa kull adi , databse adi ve sifre ..
+-tablo ismi ( "ccna_2" kelimesini arat ve kendine göre degistir) 
+-index e giden linki kendiene göre degistir 
+-ve varsa... kull adi , database adi ve sifreyi kendien göre degistir ..
 
 ----------------
 
 
 
-ikinci bir liste yapmak icin :(sonraki soru listesi icin)
+5- ikinci bir liste yapmak icin :(sonraki soru listesi icin)
 1- database de yeni tablo olustur.. 
 000sql dosyasindaki sorguyu degistirerek... bu sorguyu phpmyadminde calistir.
 database de yeni bir tablo olussun
@@ -68,17 +74,17 @@ ve varsa  kull adi,  database ve sifreleri ve  index e giden linki editle )
 6- appinventor sitesinde git 
 uye ol 
 yeni proje ac 
-sadece web göstericiyi mausla tutup cek 
+sadece web göstericiyi mausla tutup ortaya cek 
 uzerine 1 kez tikla 
 sag menüden özelliklerini degistir. 
-url kismina web sitesinde olsuturdugun soru klasörünün tam linkini yaz 
-... https//..../ccna/index.php  linki tam yaz 
+url kismina.. web sitesinde olsuturdugun soru klasörünün tam linkini yaz ..."https//..../ccna/index.php"   
 
-istersen paintte 100x100 ebatlarinda bir logo olustur. sag menüden icon ekle ye tiklayarak logoyu yükle.
-üst meüden compile/ erzuugen den .. apk yi secerek dosyai derle.. 
-olsusan dosyai ceptele aktar. 2 yol var- 
-cikan barkodu ceptele okutarak hizli sekilde 
-ya da download klasöründe olsusan ccna.apk dosyasini kablo ile ceptele kopyala. 
-ceptel den biinmeyen kaynaklara güven / yükle yi tikla
+logo istersen paintte 100x100 ebatlarinda bir logo olustur. sag üstten screen i sec.. ve acilan sag menüden icon ekle ye tiklayarak logoyu yükle.
+üst meüden compile/erzeugen den .. apk yi secerek programi derle.. 
+olusan dosyayi ceptelefonuna aktar. bunun icin 2 yol var
+cikan barkodu ceptele okutarak hizli sekilde... 
+ya da download klasöründe olusan ccna.apk dosyasini.. kablo ile baglayarak ceptelefonuna kopyala. 
+ceptel den bilinmeyen kaynaklara güven / yükle yi ac..
+apk yi install et..
 bu kadar
 
