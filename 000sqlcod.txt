@@ -1,0 +1,17 @@
+CREATE TABLE `ccna2_5` (
+  `sira` int(3) NOT NULL,
+  `frage` varchar(1000) DEFAULT NULL,
+  `antwort` varchar(1000) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+
+INSERT INTO `ccna2_5` (`sira`, `frage`, `antwort`) VALUES
+(1, '1. What is the prefix length notation for the subnet mask 255.255.255.224?\r\n\r\n/25\r\n/26\r\n/27\r\n/28\r\n\r\n\r\n\r\nhttps://www.ccna6.com/ccna-1-v7-0-modules-11-13-exam-answers/', '/27*\r\n\r\nExplanation: The binary format for 255.255.255.224 is 11111111.11111111.11111111.11100000. The prefix length is the number of consecutive 1s in the subnet mask. Therefore, the prefix length is /27.');
+
+ALTER TABLE `ccna2_5`
+  ADD PRIMARY KEY (`sira`),
+  ADD UNIQUE KEY `sira` (`sira`);
+
+
+ALTER TABLE `ccna2_5`
+  MODIFY `sira` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
