@@ -1,6 +1,11 @@
 # ccnaVorbereitungApk
 CCCNA Fragen
 
+- web sitenizde quizlet benzeri soru listeleri olusturun. 
+- basit bir form araciligi ile sorulari kopyalayip yapistirin 
+- bu basit soru listesini bir apk ya cevirip android telefonunuzdan kendi flashkart sisteminiz ile calisin 
+
+
 
 1- database olustur
 2- database icinde tablo olustur 
